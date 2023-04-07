@@ -276,6 +276,10 @@ nav .close-icon{
 }
 /* fim pagina serviço*/
 /* Página de Contato */
+.contacto{
+    background-color: #fb8c00;
+    text-align: center;
+}
 .contacto .container{
     display: block;
     text-align: center;
