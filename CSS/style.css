@@ -282,8 +282,8 @@ nav .close-icon{
 }
 .contacto .container .endereco{
     background-color: #fb8c00;
-    border-radius: 15px;
-    margin: 25px;
+    border-radius: 14px;
+    margin: 26px;
 }
 .contacto .container .endereco i,
 .contacto .container .endereco p{
@@ -291,16 +291,18 @@ nav .close-icon{
     display: contents;
 }
 .contacto .paragrafo{
-    margin: 25px;
+    margin: 26px;
 }
 .contacto .paragrafo p{
     color: #29190a;
+    text-align: center;
 }
 .contacto .container .contacto-info1{
     display: flex;
     background-color: #fb8c00;
-    border-radius: 15px;
-    margin: 25px;
+    border-radius: 14px;
+    margin: 26px;
+    text-align: center;
 }
 .contacto .contacto-insta{
 
