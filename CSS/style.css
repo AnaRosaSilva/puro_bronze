@@ -300,6 +300,7 @@ nav .close-icon{
 .contacto .container .contacto-info1{
     background-color: #fb8c00;
     text-align: center;
+    border-radius: 15px;
 }
 .contacto .container .contacto-info1 i{
     color: #fb8c00;
