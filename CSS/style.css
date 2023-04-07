@@ -303,10 +303,12 @@ nav .close-icon{
     margin: 25px;
 }
 .contacto .contacto-insta{
-   right: 60%;
+
+   left: 20%;
 }
 .contacto .contacto-whats{
-    left: 20%;
+  
+    right: 60%;
 }
 .contacto .contacto-insta,
 .contacto .contacto-whats{
