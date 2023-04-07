@@ -302,6 +302,10 @@ nav .close-icon{
     text-align: center;
     border-radius: 15px;
 }
+.contacto .container .contacto-insta,
+.contacto .container .contacto-whats{
+    display: contents;
+}
 .contacto .container .contacto-info1 i{
     color: white;
     font-size: 15px;
@@ -309,7 +313,7 @@ nav .close-icon{
     border-radius: 10px;
 }
 .contacto .container .contacto-info1 p{
-    margin-top: 10px;
+    margin: 10px;
     color: white;
 }
 /* end Página de Contato */
