@@ -301,23 +301,17 @@ nav .close-icon{
     background-color: #fb8c00;
     text-align: center;
 }
-.contacto .contacto-insta{
-
-   left: 50%;
+.contacto .container .contacto-info1 i{
+    color: #fb8c00;
+    font-size: 19px;
+    background-color: white;
+    padding: 10px;
+    margin: 3px;
+    border-radius: 10px;
 }
-.contacto .contacto-whats{
-  
-    right: 70%;
-}
-.contacto .contacto-insta,
-.contacto .contacto-whats{
-    display: contents;
-    text-align: center;
-}
-.contacto .container .contacto-info1 i,
 .contacto .container .contacto-info1 p{
+    margin-top: 10px;
     color: white;
-    display: contents;
 }
 /* end Página de Contato */
 @media(max-width: 830px){
