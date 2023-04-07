@@ -316,6 +316,7 @@ nav .close-icon{
 .contacto .container .contacto-info1 i,
 .contacto .container .contacto-info1 p{
     color: white;
+    display: contents;
 }
 /* end Página de Contato */
 @media(max-width: 830px){
