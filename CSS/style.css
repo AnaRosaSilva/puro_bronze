@@ -311,6 +311,7 @@ nav .close-icon{
 .contacto .contacto-insta,
 .contacto .contacto-whats{
     display: contents;
+    text-align: center;
 }
 .contacto .container .contacto-info1 i,
 .contacto .container .contacto-info1 p{
