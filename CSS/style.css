@@ -308,11 +308,13 @@ nav .close-icon{
 .contacto .contacto-whats{
     left: 20%;
 }
+/*
 .contacto .container .contacto-info1 i,
 .contacto .container .contacto-info1 p{
     color: white;
     display: contents;
 }
+*/
 /* end Página de Contato */
 @media(max-width: 830px){
     /* menu mobile */
