@@ -417,6 +417,13 @@ nav .close-icon{
     .faca-mais .faca-mais-text h3{
         font-size: 40px;
     }
+    .contacto .container .contacto-info1 i,
+    .contacto .container .contacto-info1 p{
+        margin: 15px;
+        text-align: center;
+        display: block;
+        font-size: 25px;
+    }
 }
 
 
