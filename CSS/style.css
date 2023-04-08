@@ -308,13 +308,13 @@ nav .close-icon{
 }
 .contacto .container .contacto-info1 i{
     color: white;
-    font-size: 15px;
-    padding: 5px;
-    border-radius: 10px;
+    font-size: 19px;
+    padding: 10px;
 }
 .contacto .container .contacto-info1 p{
-    margin: 10px;
+    margin-top: 10px;
     color: white;
+    font-size: 19px;
 }
 /* end Página de Contato */
 @media(max-width: 830px){
