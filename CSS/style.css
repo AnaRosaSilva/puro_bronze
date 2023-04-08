@@ -302,10 +302,6 @@ nav .close-icon{
     text-align: center;
     border-radius: 15px;
 }
-.contacto .container .contacto-insta,
-.contacto .container .contacto-whats{
-    display: contents;
-}
 .contacto .container .contacto-info1 i{
     color: white;
     font-size: 19px;
