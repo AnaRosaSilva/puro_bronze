@@ -209,8 +209,13 @@ nav .close-icon{
 }
 .produtos .container div{
     display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    /*
+    display: flex;
     align-items: center;
     justify-content: space-around;
+    */
 }
 /* footer */
 .footer{
@@ -230,7 +235,31 @@ nav .close-icon{
     color: white;
 }
 /* Pagina imagens */
-    
+.gallery-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly; 
+    gap: 4vw; 
+    padding: 0 1vw; 
+    margin: 30px;
+}
+.gallery-items{
+    width: 340px;
+    height: 340px;
+    border: 10px solid #fff;
+    box-shadow: 5px 5px 5px #0006;
+    flex-grow: 1;
+    transition: transform 0.5s linear;
+}
+.gallery-items img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.gallery-items:hover{
+    transform: scale(1.3);
+    filter: none;
+}   
 /* fim pagina imagens*/
 /*  pagina serviço*/
 .servicos h3{
@@ -245,7 +274,8 @@ nav .close-icon{
     display: flex;
     justify-content: center;
     margin-top: 20px;
-    
+    /*  */
+    flex-wrap: wrap;
 }
 .servicos .row-card-item{
     background-color: #ffa726;
